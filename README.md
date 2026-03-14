@@ -143,7 +143,7 @@ The application performs well across different input formats and handles common 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Sangam-555/MinuteMate-AI.git
-cd minutemate-ai
+cd MinuteMate-AI
 
 2. Install dependencies
 npm install
